@@ -30,12 +30,9 @@ text
  ├── Lọc từ khóa cốt lõi của lỗi.
  
  └── Dùng toán tử tìm kiếm chính xác (site:, dấu ngoặc kép).
- 
        └──> [Thành công?] ➔ Xong. Nếu không ➔ Chặng 2.
-       
-             │
-             
-             ▼
+                    │
+                    ▼
 
 [CHẶNG 2: Đọc StackOverflow / GitHub]
 
